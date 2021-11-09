@@ -12,6 +12,7 @@
 *   [Medium](https://medium.com/@oiagomendes)
 *   [ResearchGate](https://www.researchgate.net/profile/Iago-Mendes-De-Oliveira)
 *   [Instagram](https://www.instagram.com/oiagomendes/)
+*   [Twitter](https://twitter.com/oiagomendes)
 
 ## Projects
 *   [Exploratory Data Analysis on Airbnb Seattle Data](notebooks/PRJT1_Analisando_os_Dados_do_Airbnb_.ipynb) 🇧🇷 | 🇺🇸 (coming soon)
