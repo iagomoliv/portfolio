@@ -15,4 +15,4 @@
 *   [Twitter](https://twitter.com/oiagomendes)
 
 ## Projects
-*   [Exploratory Data Analysis on Airbnb Seattle Data](notebooks/PRJT1_Analisando_os_Dados_do_Airbnb_.ipynb) 🇧🇷 | 🇺🇸 (coming soon)
+*   [Exploratory Data Analysis on Airbnb Seattle Data](notebooks/PRJT1_Analisando_os_Dados_do_Airbnb_PT_BR_.ipynb) 🇧🇷 | 🇺🇸 (coming soon)
