@@ -3,7 +3,7 @@
 </p>
 
 # Iago Mendes
-*Forest Engineer, Spatial Data Scientist, M.Sc. Student in Forest Management*
+*Forest Engineer, Data Scientist, M.Sc. Student in Forest Management*
 
 **Background in:** Remote Sensing, GIS, Machine Learning, Forestry, Forest Management, Python, R and JavaScript.
 
